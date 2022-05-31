@@ -1,0 +1,81 @@
+#card1 {
+    box-shadow: 20px 20px 20px #000;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+
+.me{
+    font-size: 1vw;
+    background-color: rgba(5, 5, 5, .5);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+
+#card1 img{
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+
+.col-5 img{
+    max-width: 50%;
+    height: auto;
+    margin: 20px 50px;
+    box-shadow: 15px 15px 20px #000;
+    
+    
+}
+.col-7{
+    font-size: 1vw;
+    background-color: rgba(5, 5, 5, .5);
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+.btn{
+    font-size: 1vw;
+    width: 50%;
+    height: auto;
+}
+
+#menu .col .card{
+    background-color: rgba(5, 5, 5, .5);
+}
+
+.card-body{
+    color: #fff;
+}
+
+.title-menu{
+    color: #fff;
+    text-align: center;
+}
+/* #about{
+    background-color: rgba(5, 5, 5, .7);
+} */
+
+#about .row{
+    background-color: rgba(5, 5, 5, .7);
+    color: #fff;
+}
+#about .row .col-3{
+    text-align: center;
+}
+
+
+#footer{
+    color: #fff;
+    background-color: rgba(5, 5, 5, .7);
+    text-align: center;
+}
